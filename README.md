@@ -3,3 +3,12 @@ When using, please cite
 B Moscoloni, C Beeche, JA Chirinos, P Segers, M Peirlinck  
 Journal of Physiology, 2025  
 
+
+```bibtex
+@article{Moscoloni2025,
+  title = {},
+  DOI = {},
+  journal = {},
+  author = {},
+  year = {},
+}
