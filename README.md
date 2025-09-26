@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🫀 Cardiac Shape Modeling: Sex Differences in Healthy Heart Anatomy
 
 This repository accompanies the paper:
@@ -13,12 +12,12 @@ This repository contains:
 - Configuration files for anatomical mapping
 - Example visualizations and mode reconstructions
 
-📝 For details, see the [paper (link when available)](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP288667).
+📝 For details, see the [paper](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP288667).
 
 This repository does not include the raw image processing and segmentation code. Instead, we build upon established, openly available tools for preprocessing cardiac MRI data. As such we refer the user to these pre-existing repositories for setup and usage instructions:
 
 - **Segmentation Model**: [https://github.com/baiwenjia/ukbb_cardiac](https://github.com/baiwenjia/ukbb_cardiac). Bai et al., 2018.
-- **Motion Correct and Resolution Enhancement Model**: 
+- **Motion Correct and Resolution Enhancement Model**: [https://github.com/shuowang26/SRHeart](https://github.com/shuowang26/SRHeart). Wang et al., 2021.
 
 While our statistical shape modeling pipeline has been applied to cardiac geometries in the context of this work, it can be adapted to any manually or automatically segmented anatomical structure. 
 
