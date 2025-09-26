@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🫀 Cardiac Shape Modeling: Sex Differences in Healthy Heart Anatomy
 
 This repository accompanies the paper:
@@ -31,3 +32,8 @@ For questions, suggestions, or collaborations, please contact:
 Department of Biomechanical Engineering, Delft University of Technology, Delft, The Netherlands
 📧 [B.Moscoloni@tudelft.nl](mailto:B.Moscoloni@tudelft.nl)
  
+=======
+When using, please cite  
+"Unveiling sex dimorphism in the healthy cardiac anatomy: fundamental differences between male and female heart shapes",  
+B Moscoloni, C Beeche, JA Chirinos, P Segers, M Peirlinck  
+Journal of Physiology, 2025  
