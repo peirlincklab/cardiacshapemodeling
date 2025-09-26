@@ -30,6 +30,7 @@ For questions, suggestions, or collaborations, please contact:
 **Beatrice Moscoloni**  
 
 Department of Biomechanical Engineering, Delft University of Technology, Delft, The Netherlands
+
 📧 [B.Moscoloni@tudelft.nl](mailto:B.Moscoloni@tudelft.nl)
  
 =======
