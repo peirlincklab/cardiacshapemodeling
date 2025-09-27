@@ -8,6 +8,7 @@ This repository accompanies the paper:
 We present a statistical shape modeling pipeline to quantify sex-based anatomical differences in the biventricular heart structure, using cardiac magnetic resonance (CMR) data from the UK Biobank. The analysis isolates intrinsic shape differences between male and female hearts, accounting for confounding factors like age, blood pressure, and body size.
 
 When using, please cite:
+
 ~~~bibtex
 @article{Moscoloni2025,
   title = {Unveiling sex dimorphism in the healthy cardiac anatomy: Fundamental differences between male and female heart shapes},
@@ -16,10 +17,11 @@ When using, please cite:
   DOI = {10.1113/jp288667},
   journal = {The Journal of Physiology},
   publisher = {Wiley},
-  author = {Moscoloni,  Beatrice and Beeche,  Cameron and Chirinos,  Julio A. and Segers,  Patrick and Peirlinck,  Mathias},
+  author = {Moscoloni, Beatrice and Beeche, Cameron and Chirinos, Julio A. and Segers, Patrick and Peirlinck, Mathias},
   year = {2025},
   month = sep
-}  
+}
+~~~
 
 =======
 
