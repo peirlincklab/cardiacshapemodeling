@@ -1,5 +1,4 @@
-# 🫀 Cardiac Shape Modeling:  
-# Sex Differences in Healthy Heart Anatomy
+# 🫀 Cardiac Shape Modeling: Sex Differences in Healthy Heart Anatomy
 
 This repository accompanies the paper:
 
