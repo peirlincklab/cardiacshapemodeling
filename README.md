@@ -3,9 +3,25 @@
 This repository accompanies the paper:
 
 > **"Unveiling sex dimorphism in the healthy cardiac anatomy: fundamental differences between male and female heart shapes"**  
-> Beatrice Moscoloni, Cameron Beeche, Julio A. Chirinos, Patrick Segers, Mathias Peirlinck
+> **Beatrice Moscoloni, Cameron Beeche, Julio A. Chirinos, Patrick Segers, Mathias Peirlinck**
 
 We present a statistical shape modeling pipeline to quantify sex-based anatomical differences in the biventricular heart structure, using cardiac magnetic resonance (CMR) data from the UK Biobank. The analysis isolates intrinsic shape differences between male and female hearts, accounting for confounding factors like age, blood pressure, and body size.
+
+When using, please cite:
+```bibtex
+@article{Moscoloni2025,
+  title = {Unveiling sex dimorphism in the healthy cardiac anatomy: Fundamental differences between male and female heart shapes},
+  ISSN = {1469-7793},
+  url = {http://dx.doi.org/10.1113/JP288667},
+  DOI = {10.1113/jp288667},
+  journal = {The Journal of Physiology},
+  publisher = {Wiley},
+  author = {Moscoloni,  Beatrice and Beeche,  Cameron and Chirinos,  Julio A. and Segers,  Patrick and Peirlinck,  Mathias},
+  year = {2025},
+  month = sep 
+}
+
+=======
 
 This repository contains:
 - Scripts for mesh processing, shape modeling, and statistical analysis
@@ -35,9 +51,5 @@ Mathias Peirlinck
 Department of BioMechanical Engineering, Delft University of Technology, Delft, The Netherlands  
 mplab-me at tudelft nl
 
-=======
 
-When using, please cite  
-"Unveiling sex dimorphism in the healthy cardiac anatomy: fundamental differences between male and female heart shapes",  
-B Moscoloni, C Beeche, JA Chirinos, P Segers, M Peirlinck  
-Journal of Physiology, 2025  
+
