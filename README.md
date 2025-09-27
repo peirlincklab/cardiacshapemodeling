@@ -23,6 +23,7 @@ When using, please cite:
 }
 ~~~
 
+## Contents
 This repository contains:
 - Scripts for mesh processing, shape modeling, and statistical analysis
 - Configuration files for anatomical mapping
