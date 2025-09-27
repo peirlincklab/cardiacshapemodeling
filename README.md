@@ -28,11 +28,11 @@ Additionally, the supplementary material folder contains the animations of the f
 For questions, suggestions, or collaborations, please contact:
 
 **Beatrice Moscoloni**  
-
-Department of Biomechanical Engineering, Delft University of Technology, Delft, The Netherlands
-
+Department of BioMechanical Engineering, Delft University of Technology, Delft, The Netherlands  
 📧 [B.Moscoloni@tudelft.nl](mailto:B.Moscoloni@tudelft.nl)
- 
+**Mathias Peirlinck**  
+ Department of BioMechanical Engineering, Delft University of Technology, Delft, The Netherlands  
+ mplab-me at tudelft nl
 =======
 
 When using, please cite  
