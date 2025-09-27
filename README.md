@@ -18,8 +18,9 @@ When using, please cite:
   publisher = {Wiley},
   author = {Moscoloni,  Beatrice and Beeche,  Cameron and Chirinos,  Julio A. and Segers,  Patrick and Peirlinck,  Mathias},
   year = {2025},
-  month = sep 
+  month = sep
 }
+
 '''
 
 =======
