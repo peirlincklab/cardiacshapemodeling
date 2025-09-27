@@ -31,9 +31,10 @@ Beatrice Moscoloni
 Department of BioMechanical Engineering, Delft University of Technology, Delft, The Netherlands  
 📧 [B.Moscoloni@tudelft.nl](mailto:B.Moscoloni@tudelft.nl)
 
-Mathias Peirlinck 
+Mathias Peirlinck  
 Department of BioMechanical Engineering, Delft University of Technology, Delft, The Netherlands  
 mplab-me at tudelft nl
+
 =======
 
 When using, please cite  
