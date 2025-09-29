@@ -1,4 +1,4 @@
-# 🧬 Statistical Shape Modeling (SSM) from Mapped Cardiac Meshes
+# 🧬 Statistical Shape Modeling (SSM)
 
 This module performs statistical shape modeling (SSM) using mapped meshes (i.e., where point-to-point correspondence has been established). It applies rigid Procrustes alignment followed by PCA to extract dominant modes of anatomical variation.
 This script is designed to be run **after** Deformetrica's LDDMM-based anatomical mapping. It assumes as input a set of consistently remeshed and topologically aligned `.vtk` surfaces (typically found in `output/DeterministicAtlas__Reconstruction__*.vtk`).
